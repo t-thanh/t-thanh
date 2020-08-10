@@ -1,4 +1,4 @@
-[![AItrify banner](https://raw.githubusercontent.com/t-thanh/t-thanh/master/AItrify.png)](https://aitrify.be/)
+[![AItrify banner](https://raw.githubusercontent.com/t-thanh/t-thanh/master/AItrify2.png)](https://aitrify.be/)
 
 Hi. I’m Tien-Thanh. Welcome to my Github account. Here I build up ideas, create demos and test other's codes. :running: :construction_worker:
 
