@@ -1,7 +1,7 @@
 
-<div align="center">
 [![AItrify banner](https://raw.githubusercontent.com/t-thanh/t-thanh/master/AItrify2.png)](https://aitrify.be/)
 
+<div align="center">
 Hi. I’m Tien-Thanh. Welcome to my Github account. Here I build up ideas, create demos and test other's codes. :running: :construction_worker:
 
 For more information about me, check out my website [**aitrify.be**](https://aitrify.be/) and my [LinkedIn profile](https://www.linkedin.com/in/tienthanh/). :point_left: :point_left:
