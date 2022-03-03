@@ -1,12 +1,30 @@
+<p align="center">
+  <img src="https://github.com/t-thanh/t-thanh1/raw/main/assets/profile.gif" alt="gif">
+</p>
 
-[![AItrify banner](https://raw.githubusercontent.com/t-thanh/t-thanh/master/AItrify2.png)](https://aitrify.be/)
+----
 
-<div align="center">
+### Hi, I'm Tien-Thanh! &nbsp;&nbsp;<sup>👾 &#12299;I create/break things. I test code, make demos. And, I run.</sup>
 
-Hi. I’m Tien-Thanh. Welcome to my Github account. Here I build up ideas, create demos and debug codes. :running: :construction_worker:
+----
 
+<a href="https://thanh.be/">
+  <img align="left" alt="Website" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlechrome.svg" />
+</a>
+<a href="https://twitter.com/learnative">
+  <img align="left" alt="Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/tienthanh">
+  <img align="left" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://hub.docker.com/u/nttputus">
+  <img align="left" alt="Docker" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />
+</a>
+<a href="https://www.youtube.com/user/nttputus">
+  <img align="left" alt="Youtube" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
+</a>
+<a href="https://www.strava.com/athletes/48046144">
+  <img align="left" alt="Strava" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/strava.svg" />
+</a>
 
-For more information about me, check out my website [**aitrify.be**](https://aitrify.be/) and my [LinkedIn profile](https://www.linkedin.com/in/tienthanh/). :point_left: :point_left:
-
-Have some **ideas** and want to **bring them to life**, let's discuss, send me a message [here](mailto:contact@aitrify.be). :zap: :zap:
-</div>
+| &nbsp;&nbsp;&nbsp; Website : [https://thanh.be](https://thanh.be) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; To be continued : <sub>&#9660; &#9660; &#9660;</sub>
