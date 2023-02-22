@@ -11,7 +11,7 @@
 <a href="https://thanh.be/">
   <img align="left" alt="Website" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlechrome.svg" />
 </a>
-<a href="https://twitter.com/learnative">
+<a href="https://twitter.com/_Tien_Thanh">
   <img align="left" alt="Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/tienthanh">
