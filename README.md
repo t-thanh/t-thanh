@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/t-thanh/t-thanh/master/profile.gif" alt="gif">
-</p>
-
 ----
 
-### Hi, I'm Tien-Thanh! &nbsp;&nbsp;<sup>👾 &#12299;I create/break things. I test code, make demos. And, I run.</sup>
+### <sup>👾 &#12299; Connect with me on these platforms:</sup>
 
 ----
 
@@ -27,4 +23,4 @@
   <img align="left" alt="Strava" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/strava.svg" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website : [https://thanh.be](https://thanh.be) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; To be continued : <sub>&#9660; &#9660; &#9660;</sub>
+| &nbsp;&nbsp;&nbsp; Website : [https://thanh.be](https://thanh.be) &nbsp;&nbsp;&nbsp;|
